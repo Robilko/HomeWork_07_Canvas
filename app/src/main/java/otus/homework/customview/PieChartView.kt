@@ -274,6 +274,6 @@ class PieChartView @JvmOverloads constructor(
 
     companion object {
         private const val SPECIFIC_CATEGORIES_MAX_COUNT = 9
-        private const val KEY_CATEGORIES = "key_categories"
+        private const val KEY_CATEGORIES = "47b2de3d-467f-4512-8542-2df622c9baf8"
     }
 }
