@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Custom View</string>
+    <string name="other_category">Разное:(1%s)</string>
+    <string name="initial_selected_category_text">Категория: -, сумма: -руб.</string>
+    <string name="selected_category_text">Категория: %1$s, сумма: %2$sруб.</string>
 </resources>
